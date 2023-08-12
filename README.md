@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Paul Xavier Alvarez</h1>
-<h3 align="center">an Business Information Systems and Technology Double Major Student. I love programming, graphic design, reading, and writing.</h3>
+<h3 align="center">I'm a Business Information Systems and Technology Double Major Student. I love programming, graphic design, reading, and writing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulxavier13&label=Profile%20views&color=0e75b6&style=flat" alt="paulxavier13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulxavier13" alt="paulxavier13" /></a> </p>
+
+- 🔭I'm currently the Vice President [Curtin Filipino Students' Society](https://www.instagram.com/curtinfilosoc/)
+
+- 🌱 I’m currently **a third-year uni student**
+
+- 👨‍💻 All of my projects are available at [https://paulalvarez13.github.io/paul_portfolio/](https://paulalvarez13.github.io/paul_portfolio/)
+
+- 📫 How to reach me **paulxavieralvarez13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
